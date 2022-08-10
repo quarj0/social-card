@@ -17,7 +17,7 @@ root.render(
         <div className='button-container'>
         <button className='email' type='submit'>
         <FontAwesomeIcon icon={faWhatsappSquare} size="2x" />
-        <a href=''>WhatsApp</a>
+        <a href='https://wa.me/qr/6YI5RWF7LP6OI1'>WhatsApp</a>
        </button>
        <button className='linkedin' type='submit'>
        <FontAwesomeIcon icon={faLinkedin} size="1x" />
