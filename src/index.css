@@ -118,7 +118,7 @@ img{
  /* height: auto; */
 }
 
-@media only screen and (max-width:400) {
+@media only screen and (max-width:300) {
   .linkedin{
     margin: 10px;
     margin-left: -10px;
