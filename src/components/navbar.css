@@ -1,0 +1,8 @@
+*{
+    box-sizing: border-box;
+  }
+  
+  body{
+    background-color: #282d35;
+    color: white;
+  }
