@@ -1,14 +1,15 @@
 import React from "react";
-import React from 'react'
-
+import Image from './image/edited.png'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faWhatsappSquare, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 const body = () => {
   return (
     <div>
         <main className='main-contents'>
-        <img src="./edited.png" width={150} alt='img'/>
+        <img src={Image} width={150} alt='img'/>
         <h1 className='name'>Owusu Ansah K.</h1>
         <h2 className='info'>Programmer | Ethical Hacker</h2>
-        <a href='#website'className='site'>cyber.site</a>
+        <a href='https://www.buymeacoffee.com/hacksandcodes'  className='site'>buy me a coffee</a>
         <div className='button-container'>
         <button className='email' type='submit'>
         <FontAwesomeIcon icon={faWhatsappSquare} size="2x" />
