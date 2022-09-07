@@ -7,11 +7,15 @@ import Navbar from './components/navbar';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
  <div className='container'>
-    <nav className='navbar'>
+  <nav>
+    <Navbar>
       {Navbar}
+    </Navbar>
     </nav>
     <div>
+      <main>
       <Body>{Body}</Body>
+      </main>
       </div>
       <footer className='footer'>
       <SocialIcons>{SocialIcons}</SocialIcons>

@@ -6,7 +6,7 @@ const body = () => {
   return (
     <div>
         <main className='main-contents'>
-        <img src={Image} width={150} alt='img'/>
+        <img src={Image} width={120} alt='profile'/>
         <h1 className='name'>Owusu Ansah K.</h1>
         <h2 className='info'>Programmer | Ethical Hacker</h2>
         <a href='https://www.buymeacoffee.com/hacksandcodes'  className='site'>buy me a coffee</a>

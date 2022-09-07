@@ -115,4 +115,5 @@ button:hover{
 img{
  background-attachment: fixed;
  border-radius: 5px;
+ /* height: auto; */
 }
