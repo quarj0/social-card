@@ -117,3 +117,10 @@ img{
  border-radius: 5px;
  /* height: auto; */
 }
+
+@media only screen and (max-width:400) {
+  .linkedin{
+    margin: 10px;
+    margin-left: -10px;
+  }
+}
