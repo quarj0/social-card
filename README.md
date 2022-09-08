@@ -1,3 +1,9 @@
+# Feel free and modify to make it yours 
+<p> If there are issues, don't hesitate to connect with me.</p>
+<p> You can also raise issues here for me to fix it</p>
+<h1>Don't forget to buy me a coffee if you appreciate and want me to do more</h1>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
