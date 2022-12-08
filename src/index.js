@@ -22,9 +22,9 @@ root.render(
       {Navbar}
     </Navbar>
     <Routes>
-      <Route path="/project" element={<Project />} />
-      <Route path="/services" element={<Service />} />
-      <Route path="/contact" element={<Contact />} />
+      <Route path="/" element={<Project />} />
+      <Route path="/" element={<Service />} />
+      <Route path="/" element={<Contact />} />
     </Routes>
     </nav>
     </Router>
