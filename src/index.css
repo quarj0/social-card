@@ -34,6 +34,7 @@ a.social {
 }
 a.social:hover {
   transform: translateY(-2px);
+  background-color: rgb(19, 28, 36);
 }
 
 a.site{
@@ -71,7 +72,7 @@ a.site{
   text-align: center;
   padding:5px 16px;
   margin-right: 20px;
-  background-color: rgb(46, 184, 46);
+  background-color: rgba(240, 9, 9, 0.733);
   border-radius: 5px;
   color: white;
   border: none;
@@ -108,8 +109,15 @@ a.site{
   font-weight: 600;
 }
 
-button:hover{
+.linkedin:hover{
  cursor: pointer;
+ background-color: rgba(52, 136, 245, 1);
+ /* transform: matrix3d(4px); */
+}
+
+.email:hover{
+cursor: pointer;
+background-color:rgb(240, 9, 9)
 }
 
 img{

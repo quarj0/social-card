@@ -1,7 +1,7 @@
 import React from "react";
 import Image from './image/edited.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faWhatsappSquare, faLinkedin } from '@fortawesome/free-brands-svg-icons';
+import { faGoogle, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 const body = () => {
   return (
     <div>
@@ -12,8 +12,8 @@ const body = () => {
         <a href='https://www.buymeacoffee.com/hacksandcodes'  className='site'>buy me a coffee</a>
         <div className='button-container'>
         <button className='email' type='submit'>
-        <FontAwesomeIcon icon={faWhatsappSquare} size="2x" />
-        <a href='https://wa.me/qr/6YI5RWF7LP6OI1'>WhatsApp</a>
+        <FontAwesomeIcon icon={faGoogle} size="2x" />
+        <a href='https://mail.google.com/mail/u/0/'>Mail</a>
        </button>
        <button className='linkedin' type='submit'>
        <FontAwesomeIcon icon={faLinkedin} size="1x" />
