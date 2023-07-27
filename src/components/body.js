@@ -17,7 +17,7 @@ const body = () => {
        </button>
        <button className='linkedin' type='submit'>
        <FontAwesomeIcon icon={faLinkedin} size="1x" />
-       <a href='https://www.linkedin.com/kwadwo-owusu-ansah'>LinkedIn</a> </button>
+       <a href='https://www.linkedin.com/in/quarjo'>LinkedIn</a> </button>
        </div>
         <h3 className='about'>About</h3>
           I'm a professional web developer, ethical hacker and a graphic designer.
